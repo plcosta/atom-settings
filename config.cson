@@ -1,0 +1,29 @@
+"*":
+  core:
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      ".idea"
+      ".bundle"
+      "tmp"
+      "log"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "chester-atom-syntax"
+    ]
+  editor:
+    fontFamily: "Fira Code"
+    fontSize: 15
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "59733674-c52e-004e-d161-b1900ecd2bbd"
+  "tree-view":
+    hideIgnoredNames: true
+  welcome:
+    showOnStartup: false
